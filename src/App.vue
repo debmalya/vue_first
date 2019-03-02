@@ -35,6 +35,9 @@
       <li class="nav-item">
         <a class="nav-link" href="/#/epl">EPL</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/#/competition">Football Competitions</a>
+      </li>
     </ul>
     <!--
     <form class="form-inline my-2 my-lg-0">

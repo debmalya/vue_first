@@ -7,6 +7,9 @@ import Posts from './components/Posts';
 import Contact from './components/Contact';
 import Taxis from './components/Taxis'
 import Football from './components/Football'
+import Competition from './components/FootballCompetitions'
+
+
 
 Vue.use(VueRouter);
 
@@ -22,6 +25,9 @@ const routes = [
   },
   {
     path:'/epl', component: Football
+  },
+  {
+    path:'/competition', component: Competition
   }
 ];
 
